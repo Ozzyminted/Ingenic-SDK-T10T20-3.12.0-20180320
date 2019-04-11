@@ -1,0 +1,13 @@
+<map id="IMPEncoderRcAttr" name="IMPEncoderRcAttr">
+<area shape="rect" id="node2" href="$struct_i_m_p_encoder_attr_denoise.html" title="定义H.264编码Channel去噪属性,一经使能不能改变,但去噪类型可以动态改变; " alt="" coords="332,32,495,61"/>
+<area shape="rect" id="node4" href="$struct_i_m_p_encoder_attr_rc_mode.html" title="定义编码Channel码率控制器码率控制模式属性 " alt="" coords="332,85,495,115"/>
+<area shape="rect" id="node6" href="$struct_i_m_p_encoder_attr_h264_v_b_r.html" title="定义H.264编码Channel VBR属性结构 " alt="" coords="11,5,184,35"/>
+<area shape="rect" id="node8" href="$struct_i_m_p_encoder_attr_h264_fix_q_p.html" title="定义H.264编码Channel Fixqp属性结构 " alt="" coords="7,59,188,88"/>
+<area shape="rect" id="node10" href="$struct_i_m_p_encoder_attr_h264_c_b_r.html" title="定义H.264编码Channel CBR属性结构 " alt="" coords="11,112,184,141"/>
+<area shape="rect" id="node12" href="$struct_i_m_p_encoder_attr_h264_smart.html" title="定义H.264编码Channel Smart属性结构 " alt="" coords="7,165,188,195"/>
+<area shape="rect" id="node14" href="$struct_i_m_p_encoder_attr_demask.html" title="定义H.264编码Channel去马赛克属性 " alt="" coords="332,139,495,168"/>
+<area shape="rect" id="node16" href="$struct_i_m_p_encoder_attr_frm_used.html" title="定义H.264编码Channel输入帧使用模式属性 " alt="" coords="329,192,497,221"/>
+<area shape="rect" id="node18" href="$struct_i_m_p_encoder_attr_init_h_skip.html" title="定义H264高级跳帧类型初始化结构体 " alt="" coords="329,245,497,275"/>
+<area shape="rect" id="node20" href="$struct_i_m_p_encoder_attr_h_skip.html" title="定义H264高级跳帧类型结构体 " alt="" coords="23,245,172,275"/>
+<area shape="rect" id="node22" href="$struct_i_m_p_encoder_frm_rate.html" title="定义编码channel帧率结构体,frmRateNum和frmRateDen经过最大公约数整除后两者之间的最小公倍数不能超过64，�..." alt="" coords="341,299,485,328"/>
+</map>

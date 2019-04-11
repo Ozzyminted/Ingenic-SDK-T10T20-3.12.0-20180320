@@ -1,0 +1,16 @@
+目前SDK主要包含以下几款WIFI驱动：
+
+	rtl8188EUS    USB WIFI
+
+	rtl8189ES     SDIO WIFI
+
+	rtl8189FS     SDIO WIFI
+
+	rtl8723BU     USB WIFI + BT
+
+	ESP8089       SDIO WIFI
+
+	marvell8801   SDIO WIFI
+
+	bcm6212A      SDIO WIFI + BT
+

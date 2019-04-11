@@ -1,0 +1,6 @@
+<map id="IMPEncoderAttrRcMode" name="IMPEncoderAttrRcMode">
+<area shape="rect" id="node2" href="$struct_i_m_p_encoder_attr_h264_v_b_r.html" title="Define the VBR ratecontrol attribute of h264 channel. " alt="" coords="11,5,184,35"/>
+<area shape="rect" id="node4" href="$struct_i_m_p_encoder_attr_h264_fix_q_p.html" title="Define the FixQp ratecontrol attribute of h264 channel. " alt="" coords="7,59,188,88"/>
+<area shape="rect" id="node6" href="$struct_i_m_p_encoder_attr_h264_c_b_r.html" title="Define the CBR ratecontrol attribute of h264 channel. " alt="" coords="11,112,184,141"/>
+<area shape="rect" id="node8" href="$struct_i_m_p_encoder_attr_h264_smart.html" title="Define the Smart ratecontrol attribute of h264 channel. " alt="" coords="7,165,188,195"/>
+</map>

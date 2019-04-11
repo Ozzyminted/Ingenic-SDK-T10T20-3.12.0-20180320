@@ -1,0 +1,6 @@
+<map id="IMPEncoderAttrRcMode" name="IMPEncoderAttrRcMode">
+<area shape="rect" id="node2" href="$struct_i_m_p_encoder_attr_h264_v_b_r.html" title="定义H.264编码Channel VBR属性结构 " alt="" coords="11,5,184,35"/>
+<area shape="rect" id="node4" href="$struct_i_m_p_encoder_attr_h264_fix_q_p.html" title="定义H.264编码Channel Fixqp属性结构 " alt="" coords="7,59,188,88"/>
+<area shape="rect" id="node6" href="$struct_i_m_p_encoder_attr_h264_c_b_r.html" title="定义H.264编码Channel CBR属性结构 " alt="" coords="11,112,184,141"/>
+<area shape="rect" id="node8" href="$struct_i_m_p_encoder_attr_h264_smart.html" title="定义H.264编码Channel Smart属性结构 " alt="" coords="7,165,188,195"/>
+</map>
